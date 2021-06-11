@@ -1,0 +1,25 @@
+{
+  "name": "browser-weekendcountdown-aimhark",
+  "version": "1.0.0",
+  "description": "1. Create a mini app that takes in a users name and returns the following;",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FbW-48-2/browser-weekendcountdown-aimhark.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FbW-48-2/browser-weekendcountdown-aimhark/issues"
+  },
+  "homepage": "https://github.com/FbW-48-2/browser-weekendcountdown-aimhark#readme",
+  "dependencies": {
+    "bundler": "^0.8.0",
+    "parcel": "^2.0.0-beta.2"
+  },
+  "devDependencies": {}
+}
