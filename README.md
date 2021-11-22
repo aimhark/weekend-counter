@@ -1,5 +1,9 @@
 # Weekend Countdown
 
+![Weekend Counter](weekend-counter.png)
+
+This was a student project a the beginning of my Weiterbildung. The instructions were:
+
 1. Create a mini app that takes in a users name and returns the following;
 
     - A greeting with the users name.
@@ -11,3 +15,11 @@
 > Hint: Refer to the representation below, for an idea of what your result should look like.
 
 ![demo](demo.gif)
+
+## Demo the Project 
+
+[Weekend Counter](https://aimhark.github.io/weekend-counter/)
+
+## Author
+
+[Aimee Harkin](https://github.com/aimhark)
